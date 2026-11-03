@@ -1,0 +1,6 @@
+{
+  "name": "Weather Data Analysis System",
+  "description": "Professional Python-based weather data analysis system for historical meteorological observations, validation, statistics, and interactive visualization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
